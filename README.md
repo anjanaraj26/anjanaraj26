@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Anjana 👋
 
-<!--
-**anjanaraj26/anjanaraj26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+PhD in Statistics | Data Scientist | Biostatistics & Machine Learning  
+Experience in survival analysis, causal inference, and healthcare analytics.
 
-Here are some ideas to get you started:
+## Skills
+- Programming: Python, R, SQL, SAS, STATA, SPSS
+- ML: Logistic Regression, Random Forest, Decision Tree, Regularization Techniques, Targeted Maximum Likelihood Estimation
+- Statistics: Survival Analysis, Regression, Hypothesis Testing, SEM, Time series
+- Tools: Git, GitHub, Jupyter, RStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Survival Analysis with Cox & RSF
+- Lifestyle Factors & Health Prediction
+- Causal Inference using IPW
+
+## Contact
+- LinkedIn: www.linkedin.com/in/anjana-raj-31ba971b8
+- Email: anjanaraj297@gmail.com
+
